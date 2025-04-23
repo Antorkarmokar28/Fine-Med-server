@@ -1,5 +1,4 @@
-
-# **Bicycle Garden Server**
+# 🩺 MediMart Backend API
 
 ![Bicycle Store Banner](https://i.postimg.cc/Vv24FZX6/Frame-6.png)
 
